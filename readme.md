@@ -4,7 +4,7 @@ A PowerShell script to automate the creation of limited permission groups for Te
 
 ## Description
 
-This script creates a server group with limited permissions that you can assign to specific users on your TeamSpeak server. These users can then create query logins to use with My-TS.org services.
+This script creates a server group (MyTSQueryAccess) with limited permissions that you can assign to specific users on your TeamSpeak server. These users can then create query logins to use with My-TS.org services.
 
 ### Features
 
