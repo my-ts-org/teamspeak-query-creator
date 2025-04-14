@@ -1,3 +1,4 @@
+# © 2025 My-TS.org. All rights reserved.
 # TeamSpeak Query Account Creator - for www.My-TS.org
 # This script creates a limited permission group that you can assign to a specific user on your teamspeak server.
 # You can then create a query login with that user to use on my-ts.org as query login.

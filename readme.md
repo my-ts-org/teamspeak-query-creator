@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Copyright
 
-© 2024 My-TS.org. All rights reserved.
+© 2025 My-TS.org. All rights reserved.
 
 ## Support
 
